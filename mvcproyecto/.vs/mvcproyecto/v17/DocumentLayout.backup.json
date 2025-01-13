@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\migrations\\20250110001320_miprimeramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\migrations\\20250110001320_miprimeramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|c:\\users\\anibal\\desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73D727D-0945-4685-9D63-1F9F0CC14B83}|mvcproyecto\\mvcproyecto.csproj|solutionrelative:mvcproyecto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcproyecto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcproyecto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T01:13:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcproyecto\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcproyecto\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T01:13:14.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Productoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvcproyecto\\Views\\Productoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Productoes\\Details.cshtml",
+              "RelativeToolTip": "mvcproyecto\\Views\\Productoes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T01:13:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproyecto\\Views\\Productoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "mvcproyecto\\Views\\Productoes\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T01:13:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "mvcproyecto\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "mvcproyecto\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:19:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250110001320_Miprimeramigration.cs",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Migrations\\20250110001320_Miprimeramigration.cs",
+              "RelativeDocumentMoniker": "mvcproyecto\\Migrations\\20250110001320_Miprimeramigration.cs",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Migrations\\20250110001320_Miprimeramigration.cs",
+              "RelativeToolTip": "mvcproyecto\\Migrations\\20250110001320_Miprimeramigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:13:21.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Program.cs",
+              "RelativeDocumentMoniker": "mvcproyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Program.cs",
+              "RelativeToolTip": "mvcproyecto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:08:40.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "mvcproyecto\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\Models\\Producto.cs",
+              "RelativeToolTip": "mvcproyecto\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:07:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcproyecto\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcproyecto\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:06:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcproyecto\\appsettings.json",
+              "ToolTip": "C:\\Users\\ANIBAL\\Desktop\\sistemas de informacion\\mvcproyecto\\mvcproyecto\\appsettings.json",
+              "RelativeToolTip": "mvcproyecto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T00:04:18.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
